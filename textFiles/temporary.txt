@@ -1,0 +1,5 @@
+1.  HDFC Bank               1480
+10.    TITAN                 3186
+15.    MPHASIS               2114
+20.    RELIANCE              2238
+50.   REFEX                  658

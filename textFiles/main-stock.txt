@@ -1,0 +1,55 @@
+********************************************************************
+                                STOCKS
+********************************************************************
+1)  HDFC Bank
+2)  ICICI Bank
+3)  AXIS Bank
+4)  INDUSIND Bank
+5)  PNB
+6)  Bank Of Baroda
+7)  TCS
+8)  TATA Motors
+9)  TATA Chemicals
+10) TITAN
+11) INFOSYS
+12) WIPRO
+13) TECH Mahindra
+14) LARSEN & TOUBRO
+15) MPHASIS
+16) PERSISTENT Systems
+17) DATA PATTERNS
+18) HCL Technologies
+19) HINDUSTAN UNILEVER
+20) RELIANCE
+21) JUBILANT Foodworks
+22) ASIAN Paints
+23) FSN E Commerce
+24) ITC
+25) BHARTI AIRTEL
+26) MARUTI
+27) BAJAJ Finance
+28) BAJAJ Electricals
+29) HINDUSTAN Petrol
+30) INDIAN OIL CORP.
+31) COAL INDIA
+32) MRF
+33) ONGC
+34) IRCTC
+35) BRITANNIA
+36) PAYTM
+37) IRCON
+38) ZOMATO
+39) ADANI Power
+40) ADANI Ports
+41) ADANI Green
+42) ADANI Wilmar
+43) AARTI Drugs
+44) AARTI Industries
+45) DEEPAK Nitrate
+46) CIPLA
+47) GRAPHITE
+48) HUDCO
+49) IVP
+50) REFEX
+********************************************************************
+********************************************************************

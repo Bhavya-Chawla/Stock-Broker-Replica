@@ -1,0 +1,56 @@
+********************************************************************
+    STOCKS                 PRICES
+**************************************
+1.  HDFC Bank               1500
+2.  ICICI Bank              900
+3.  AXIS Bank               950
+4.  INDUSIND Bank           1400
+5.  PNB                     750
+6.  Bank Of Baroda          200
+7.  TCS                     3500
+8.  TATA Motors             650
+9.  TATA Chemicals          1000
+10. TITAN                   3200
+11. INFOSYS                 1400
+12. WIPRO                   400
+13. TECH Mahindra           1150
+14. LARSEN & TOUBRO         3000
+15. MPHASIS                 2100
+16. PERSISTENT Systems      5800
+17. DATA PATTERNS           2000
+18. HCL Technologies        1200
+19. HINDUSTAN UNILEVER      2500
+20. RELIANCE                2250
+21. JUBILANT Foodworks      550
+22. ASIAN Paints            3000
+23. FSN E Commerce          140
+24. ITC                     450
+25. BHARTI AIRTEL           1000
+26. MARUTI                  1050
+27. BAJAJ Finance           7800
+28. BAJAJ Electricals       1000
+29. HINDUSTAN Petrol        250
+30. INDIAN OIL CORP.        900
+31. COAL INDIA              300
+32. MRF                     1100
+33. ONGC                    185
+34. IRCTC                   650
+35. BRITANNIA               4500
+36. PAYTM                   900
+37. IRCON                   150
+38. ZOMATO                  110
+39. ADANI Power             300
+40. ADANI Ports             750
+41. ADANI Green             900
+42. ADANI Wilmar            325
+43. AARTI Drugs             500
+44. AARTI Industries        450
+45. DEEPAK Nitrate          2000
+46. CIPLA                   1200
+47. GRAPHITE                450
+48. HUDCO                   750
+49. IVP                     160
+50. REFEX                   660
+
+********************************************************************
+********************************************************************
